@@ -1,0 +1,19 @@
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\bin\Debug\pouch_controller.exe.config
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\bin\Debug\pouch_controller.exe
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\bin\Debug\pouch_controller.pdb
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\obj\Debug\pouch_controller.csprojAssemblyReference.cache
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\obj\Debug\pouch_controller.Form1.resources
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\obj\Debug\pouch_controller.Properties.Resources.resources
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\obj\Debug\pouch_controller.csproj.GenerateResource.cache
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\obj\Debug\pouch_controller.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\obj\Debug\pouch_controller.exe
+C:\Users\Artem\Documents\uni\pouch_controller\pouch_controller\pouch_controller\obj\Debug\pouch_controller.pdb
+C:\Users\Maria Serdyukova\Downloads\pouch_controller\bin\Debug\pouch_controller.exe.config
+C:\Users\Maria Serdyukova\Downloads\pouch_controller\bin\Debug\pouch_controller.exe
+C:\Users\Maria Serdyukova\Downloads\pouch_controller\bin\Debug\pouch_controller.pdb
+C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.csprojAssemblyReference.cache
+C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.Form1.resources
+C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.Properties.Resources.resources
+C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.csproj.GenerateResource.cache
+C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.exe
+C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.pdb
