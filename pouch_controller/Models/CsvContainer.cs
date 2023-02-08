@@ -2,23 +2,19 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace pouch_controller.Models
 {
-    class CsvRecordContainer
+    internal class CsvRecordContainer
     {
+        // путь к файлу - контейнеру
         private string Way;
-        public List<Record> recs;
+        // список записей
+        public List<Record> recs = new List<Record>();
 
         public CsvRecordContainer(string way = "stupid_program.csv")
         {
             Way = way;
-            //recs = new List<Record>();
-            //recs.Add(new Record(100, DateTime.UtcNow, 100));
-            //recs.Add(new Record(140, DateTime.UtcNow, 160,"sd", new List<string>(new string[] { "title" })));
-            //recs.Add(new Record(10, DateTime.UtcNow, 110, new List<string>(new string[] { "title", "213123" })));
             try
             {
                 LoadData();
@@ -27,10 +23,12 @@ namespace pouch_controller.Models
                 SaveUpdates();
             }
         }
+
+        // сохранение изменений
         public void SaveUpdates()
         {
             System.Text.StringBuilder sb = new System.Text.StringBuilder();
-            sb.AppendLine("ID,Count,Describtion,Date,Tegs");
+            sb.AppendLine("ID,Count,Describtion,Date,Tags");
             foreach (var item in recs)
             {
                 sb.AppendLine(item.ToString());
@@ -40,17 +38,23 @@ namespace pouch_controller.Models
                 AppDomain.CurrentDomain.BaseDirectory, Way),
                 sb.ToString());
         }
+
+        // загрузка из файла
         public void LoadData()
         {
             if(recs != null)
                 recs.Clear();
             recs  = File.ReadLines(Way).Skip(1).Select(line => new Record(line)).ToList();
         }
+
+        // добавление новой записи
         public void Add(Record rec)
         {
             recs.Add(rec);
             SaveUpdates();
         }
+
+        //удаление записи
         public void Delete(uint Id)
         {
             foreach(var i in recs)

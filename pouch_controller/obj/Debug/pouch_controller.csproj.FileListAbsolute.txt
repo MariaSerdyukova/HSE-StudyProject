@@ -17,3 +17,14 @@ C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.
 C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.csproj.GenerateResource.cache
 C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.exe
 C:\Users\Maria Serdyukova\Downloads\pouch_controller\obj\Debug\pouch_controller.pdb
+D:\NetProjects\Masha\pouch_controller\bin\Debug\pouch_controller.exe.config
+D:\NetProjects\Masha\pouch_controller\bin\Debug\pouch_controller.exe
+D:\NetProjects\Masha\pouch_controller\bin\Debug\pouch_controller.pdb
+D:\NetProjects\Masha\pouch_controller\obj\Debug\pouch_controller.csproj.AssemblyReference.cache
+D:\NetProjects\Masha\pouch_controller\obj\Debug\pouch_controller.csproj.SuggestedBindingRedirects.cache
+D:\NetProjects\Masha\pouch_controller\obj\Debug\pouch_controller.Properties.Resources.resources
+D:\NetProjects\Masha\pouch_controller\obj\Debug\pouch_controller.csproj.GenerateResource.cache
+D:\NetProjects\Masha\pouch_controller\obj\Debug\pouch_controller.csproj.CoreCompileInputs.cache
+D:\NetProjects\Masha\pouch_controller\obj\Debug\pouch_controller.exe
+D:\NetProjects\Masha\pouch_controller\obj\Debug\pouch_controller.pdb
+D:\NetProjects\Masha\pouch_controller\obj\Debug\pouch_controller.MainWindow.resources
